@@ -1,7 +1,0 @@
-Coloque nesta pasta os documentos oficiais com estes nomes:
-
-- plano-de-trabalho-e-convenio.pdf
-- negativa-formal-santa-casa-rio-preto.pdf
-- portaria-gm-ms-7061-2025.pdf
-
-Os botões do hotsite já apontam para esses arquivos.
